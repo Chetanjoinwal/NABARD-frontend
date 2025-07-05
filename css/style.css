@@ -2373,7 +2373,8 @@ h4.pbmit-award-title {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    gap: 5px;
+    gap: 5px; 
+	  flex-wrap:wrap;
 }
 
 ul.validate img {
